@@ -7,7 +7,7 @@ terraform {
     organization = "ds3899-training"
 
     workspaces {
-      name = "hashicat-aws"
+      name = "hashicat-dev"
     }
   }
 }
